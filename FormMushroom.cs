@@ -47,8 +47,7 @@ namespace Bicycle_Mushroom_Forms
             }
             else if (step == 4)
             {
-                
-                lblQuestion.Text = "Question 3: Does your mushroom have a convex cap?";
+                lblQuestion.Text = "Question 4: Does your mushroom have a convex cap?";
             }
         }
 
